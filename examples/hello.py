@@ -1,2 +1,2 @@
 def main(session):
-    return "Hello Chetan Bhaiiiiiiii!"
+    return "Hello Chetan Bhai!"
